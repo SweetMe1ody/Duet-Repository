@@ -1,1 +1,3 @@
-print(9/3)
+import numpy as np
+
+print(np.linspace(-1,1,10))
